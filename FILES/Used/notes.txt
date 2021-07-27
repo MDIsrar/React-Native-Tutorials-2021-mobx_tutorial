@@ -1,0 +1,7 @@
+Create new folder under src folder -> store
+Create new file under store folder -> superheroes.js
+
+
+makeObservable, isme hum apne observable add karte, jaise hain-> observable, action, compute, inhe aapko mobx se use karna hota hai.
+
+observer, iska use hum waha par karte hain jahan par jin functions par humne makeObservable ka use kiya tha. hum iska use UI par karte hain. ye hume mobx-react se milta hai.
